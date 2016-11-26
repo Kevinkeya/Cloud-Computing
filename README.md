@@ -1,11 +1,32 @@
 # CloudComputing
-Cloud Computing Lab
+## Cloud Computing Lab
+
+This the final code of our late.
+
+- Cloud Convert Final Version
+
+	This is the codes of clients, nodes and resource managers.
+	
+- Create
+
+	Codes using AWS JDK to create or terminate instance.
+	
+- python draw
+
+	Codes used to draw experiment figures.	
+
+
+
+
+
+
+-------
 
 
 ## Method of Calling checkME.jar
 
-### The checkME.jar file is in the crete directory.
-### JDK 1.8 required.
+- The checkME.jar file is delete to prevent others access to the instance.
+- JDK 1.8 required.
 
 -------
  - List all running instances and their information, write it in the cvs file (no input)
