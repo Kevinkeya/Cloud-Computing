@@ -1,0 +1,1 @@
+java -Djava.security.policy=permission.policy Client
