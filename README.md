@@ -1,7 +1,7 @@
 # CloudComputing
 ## Cloud Computing Lab
 
-This the final code of our late.
+This the final code of our lab.
 
 - Cloud Convert Final Version
 
